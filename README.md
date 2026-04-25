@@ -1,3 +1,11 @@
-Code for controlling arduino using an LLM running on raspberryPi
-/hardware contains programs for both arduino and python (for RaspberryPi)
+# LLM Home Assistant
 
+AI-powered assistant for smart automation and natural conversations.
+
+## Features
+- Task management  
+- Query answering  
+- Home automation  
+
+## Tech Stack
+Python | LLM | NLP | APIs
